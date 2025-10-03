@@ -1,5 +1,9 @@
 # PotatoOSX
+
+---
+
 an os that say potato when boot for floppydisk/usb drive with bios legacy mode
+
 ---
 
 ## How to use
